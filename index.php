@@ -1,3 +1,3 @@
 <?php
-	$example = new Heroku\Cloud();
+	header('Location: home.html');
 ?>
